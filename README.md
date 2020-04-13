@@ -1,0 +1,2 @@
+# mayamir
+mayamir paid script
